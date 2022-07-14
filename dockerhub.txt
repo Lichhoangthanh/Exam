@@ -1,0 +1,3 @@
+1. https://hub.docker.com/repository/docker/lichhoang1204/examhoang211331/general
+2. docker build -t hoang_exam .
+3. docker run -it hoang_exam
